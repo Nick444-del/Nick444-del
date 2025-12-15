@@ -121,8 +121,8 @@ Tilak Maharashtra Vidyapeeth, Pune *(2018 – 2021)*
 ## 📫 Contact Me
 
 - 📧 Email: **nikhilgorule7@gmail.com**
-- 🔗 LinkedIn: *(Add your LinkedIn URL here)*
-- 💻 GitHub: *(You’re already here 😄)*
+- 🔗 LinkedIn: **https://portfolio-93vf.vercel.app/portfolio**
+- 💻 GitHub: **https://github.com/Nick444-del**
 
 ---
 
