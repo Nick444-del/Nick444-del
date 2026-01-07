@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack Developer** with **7–8 months of hands-on experience** building responsive, scalable, and efficient web applications.  
+I'm a **MERN Stack Developer** with **hands-on experience** building responsive, scalable, and efficient web applications.  
 I enjoy solving real-world problems, writing clean backend logic, and creating smooth user experiences.
 
 Currently working as an **IT Developer Executive at WOWTRUCK Technologies**, where I contribute to backend optimization, automation, and data-driven solutions.
